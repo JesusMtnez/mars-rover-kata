@@ -1,7 +1,6 @@
 module Rover where
 
-import Direction
-import Position
+import Orientation
 
 data Rover = Rover {
   direction :: Direction
